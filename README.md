@@ -1,10 +1,10 @@
-# Infdev-Plus-Bug-Reports
-A public repository used to track bugs related to Infdev+. Anyone can contribute to this and it is actively tracked by the developer!
+# Minecraft Infinite
+A public repository used to track bugs related to Minecraft Infinite and archive all versions of the mod.
 
 PLEASE USE THE CORRESPONDING TEMPLATE WHEN POSTING BUGS!!! If you do not provide adequate information (e.g. you don't fully fill out the form or don't use it at all), YOUR REPORT WILL BE DELETED! 
 Please do not flood the repo with nothingburger reports!
 
-Also, please note that this repository is for tracking bugs ONLY for Infdev+!!! The other Legacy+ mods are no longer supported!
+Also, please note that this repository is for tracking bugs ONLY for Minecraft Infinite!!! The other Legacy+ mods are no longer supported!
 
 Common problems:
 * Mod requires at least 4 GB of memory to run properly. This is caused by some type of a memory leak in the code and is being actively investigated.
